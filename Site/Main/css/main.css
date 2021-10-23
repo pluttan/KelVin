@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+html {
+  height: 100%;
+  width: 100%;
+  background: #000000;
+  color:aliceblue;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/main.jpg);
+  background-size:cover;
+  padding: 0cm;
+  margin: 0cm;
+  position: absolute;
+}
+
+p{
+  margin: 3%;
+}

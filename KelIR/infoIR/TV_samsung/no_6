@@ -1,0 +1,38 @@
+====================================
+Data     = E0E050AF	
+Length   = 32	bits
+====================================
+PROTOCOL:
+String   = Ae``o[YI@Ka~KJaI@@@@@APBp	
+Coding   = pause length	
+F        = 37	kHz
+====================================
+PACKET:
+Inform   = 32	bits
+Repet    = 32	bits
+RepType  = identichen	
+Pause    = 47	ms
+====================================
+BIT START:
+Pulse    = 4550	mks
+Pause    = 4450	mks
+Present  = true	
+====================================
+BIT STOP:
+Pulse    = 450	mks
+Pause    = 0	mks
+Present  = true	
+====================================
+BIT TOGGLE:
+Pulse    = 550	mks
+Pause    = 1650	mks
+Position = 31	bit
+Present  = false	
+====================================
+BITS DATA:
+PulseMax = 550	mks
+PulseMin = 500	mks
+PauseMax = 1650	mks
+PauseMin = 450	mks
+====================================
+####################################

@@ -1,0 +1,21 @@
+.block{
+    width: 200px;
+    margin-top: 1%;
+    height: 100px;
+    position: relative;
+    z-index:1;
+    border-radius:15px;
+}
+.block::before {
+    border-radius:15px;
+    content:"";
+    opacity: 0.8;
+    position: absolute;
+    z-index:-1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background:url(../img/blurred-background-5.jpg);
+    background-size:cover;
+}
