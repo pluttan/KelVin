@@ -1,13 +1,17 @@
 #include <Adafruit_NeoPixel.h>
 
 //constants
-#define r1 300 //number of pixels in the first/the third row
-#define r2 300 //number of pixels in the second/the fourth row
+#define r1 17 //number of pixels in the first/the third row
+#define r2 13 //number of pixels in the second/the fourth row
 
-uint32_t mas[r1*2+r2*2];
+uint32_t mas[r1*2+r2*2]={(0)*r1*2+r2*2};
+int k=0;
+uint8_t gap[2]{0,0};
+uint8_t mode=0;
+bool fl_of_st=false;
 
 //pin
-#define strip_pin 3
+#define strip_pin 6
 
 // -----plan of your room-----
 //             r2 s
@@ -21,28 +25,28 @@ uint32_t mas[r1*2+r2*2];
 //
 //  n-the start/end of the tape 
 
-Adafruit_NeoPixel strip(r1*2+r2*2, strip_pin, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel strip(r1*2+r2*2, strip_pin, NEO_RGB + NEO_KHZ800);
 
 void setup(){
     strip.begin();
-    strip.setBrightness(1);
+    strip.setBrightness(50);
     digitalWrite(2,HIGH);
     Serial.begin(9600);
 };
 
 void loop(){
-    CL_White();
-    int gap[2]{0,r1};
-    print(gap);
-        
+    stepp(15);
+    CL("Blue");
+    strip.show();
+    delay(100);
 };
 
-void print(int *gap){
-    int start=gap[0];
-    int end=gap[1];
-    for (int c = start; c < end; c++)
-    {
-        strip.setPixelColor(c, mas[c]);
-    }
-    strip.show();
-}
+
+void step(uint8_t start, uint8_t end){
+    gap[0]=start;
+    gap[1]=end;
+};
+void stepp(uint8_t step){
+    gap[0]=gap[1];
+    gap[1]=step+gap[0];
+};

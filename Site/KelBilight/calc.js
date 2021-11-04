@@ -82,8 +82,8 @@ function drawpole2(){
     rect(x_pole2, y_pole2, 100, 20, 28);
     fill(0);
     text("Введите кол-во светодиодов на метр:", 10, y_pole2+18);
-    if (txt2.length>7) {
-        txt2=txt2.substring(0, 7);
+    if (txt2.length>3) {
+        txt2=txt2.substring(0, 3);
     }
     if (pole2_flag){
         drawcur2(); 

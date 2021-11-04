@@ -1,0 +1,241 @@
+void CL(char *color){
+    if(color=="AirForceBlue")CL_opr(0x5D8AA8");
+    if(color=="AliceBlue")CL_opr(0xF0F8FF");
+    if(color=="Aqua")CL_opr(0x00FFFF");
+    if(color=="Aquamarine")CL_opr(0x7FFFD4");
+    if(color=="ArmyGreen")CL_opr(0x4B5320");
+    if(color=="Arsenic")CL_opr(0x3B444B");
+    if(color=="Azure")CL_opr(0x007FFF");
+
+    if(color=="BattleshipGrey")CL_opr(0x848482");
+    if(color=="Beige")CL_opr(0xF5F5DC");
+    if(color=="Bistre")CL_opr(0x3D2B1F");
+    if(color=="Bittersweet")CL_opr(0xFE6F5E");
+    if(color=="Black")CL_opr(0x000000");
+    if(color=="Blond")CL_opr(0xFAF0BE");
+    if(color=="Blue")CL_opr(0x0000FF");
+    if(color=="BondiBlue")CL_opr(0x0095B6");
+    if(color=="BostonUniversityRed")CL_opr(0xCC0000");
+    if(color=="Brass")CL_opr(0xB5A642");
+    if(color=="Brightgreen")CL_opr(0x66FF00");
+    if(color=="Brightturquoise")CL_opr(0x08E8DE");
+    if(color=="Brightviolet")CL_opr(0xCD00CD");
+    if(color=="Bronze")CL_opr(0xCD7F32");
+    if(color=="Brown")CL_opr(0x964B00");
+    if(color=="Buff")CL_opr(0xF0DC82");
+    if(color=="Burgundy")CL_opr(0x900020");
+    if(color=="BurntOrange")CL_opr(0xCC5500");
+    if(color=="BurntSienna")CL_opr(0xE97451");
+    if(color=="Burntumber")CL_opr(0x8A3324");
+
+    if(color=="Camel")CL_opr(0xC19A6B");
+    if(color=="Camouflagegreen")CL_opr(0x78866B");
+    if(color=="Canonicalaubergine")CL_opr(0x772953");
+    if(color=="Cardinal")CL_opr(0xC41E3A");
+    if(color=="Carmine")CL_opr(0x960018");
+    if(color=="Carrot")CL_opr(0xED9121");
+    if(color=="Celadon")CL_opr(0xACE1AF");
+    if(color=="Cerise")CL_opr(0xDE3163");
+    if(color=="Cerulean")CL_opr(0x007BA7");
+    if(color=="Ceruleanblue")CL_opr(0x2A52BE");
+    if(color=="Chartreuse")CL_opr(0x7FFF00");
+    if(color=="Chestnut")CL_opr(0xCD5C5C");
+    if(color=="Chocolate")CL_opr(0xD2691E");
+    if(color=="Cinnamon")CL_opr(0x7B3F00");
+    if(color=="Cobalt")CL_opr(0x0047AB");
+    if(color=="Copper")CL_opr(0xB87333");
+    if(color=="Coral")CL_opr(0xFF7F50");
+    if(color=="Corn")CL_opr(0xFBEC5D");
+    if(color=="Cornflowerblue")CL_opr(0x6495ED");
+    if(color=="Cream")CL_opr(0xFFFDD0");
+    if(color=="Crimson")CL_opr(0xDC143C");
+
+    if(color=="Darkblue")CL_opr(0x00008B");
+    if(color=="Darkbrown")CL_opr(0x654321");
+    if(color=="Darkcerulean")CL_opr(0x08457E");
+    if(color=="Darkchestnut")CL_opr(0x986960");
+    if(color=="Darkcoral")CL_opr(0xCD5B45");
+    if(color=="Darkgoldenrod")CL_opr(0xB8860B");
+    if(color=="Darkgreen")CL_opr(0x013220");
+    if(color=="Darkindigo")CL_opr(0x310062");
+    if(color=="Darkkhaki")CL_opr(0xBDB76B");
+    if(color=="Darkolive")CL_opr(0x556832");
+    if(color=="Darkpastelgreen")CL_opr(0x03C03C");
+    if(color=="Darkpeach")CL_opr(0xFFDAB9");
+    if(color=="Darkpink")CL_opr(0xE75480");
+    if(color=="Darkpowderblue")CL_opr(0x003399");
+    if(color=="Darksalmon")CL_opr(0xE9967A");
+    if(color=="Darkscarlet")CL_opr(0x560319");
+    if(color=="Darkslategray")CL_opr(0x2F4F4F");
+    if(color=="Darkspringgreen")CL_opr(0x177245");
+    if(color=="Darktan")CL_opr(0x918151");
+    if(color=="Darktangerine")CL_opr(0xFFA812");
+    if(color=="Darkteagreen")CL_opr(0xBADBAD");
+    if(color=="Darkturquoise")CL_opr(0x116062");
+    if(color=="Darkviolet")CL_opr(0x423189");
+    if(color=="Deeppink")CL_opr(0xFF1493");
+    if(color=="Deepskyblue")CL_opr(0x00BFFF");
+    if(color=="Denim")CL_opr(0x1560BD");
+    if(color=="Dodgerblue")CL_opr(0x1E90FF");
+
+    if(color=="Emerald")CL_opr(0x1E90FF");
+    if(color=="Eggplant")CL_opr(0x990066");
+
+    if(color=="Fawn")CL_opr(0xE5AA70");
+    if(color=="Ferngreen")CL_opr(0x4F7942");
+    if(color=="Firebrick")CL_opr(0xB22222");
+    if(color=="Flax")CL_opr(0xEEDC82");
+    if(color=="Fuchsia")CL_opr(0xFF00FF");
+
+    if(color=="Gamboge")CL_opr(0xE49B0F");
+    if(color=="Gold")CL_opr(0xFFD700");
+    if(color=="Goldenrod")CL_opr(0xDAA520");
+    if(color=="Gray")CL_opr(0x808080");
+    if(color=="Grayasparagus")CL_opr(0x465945");
+    if(color=="GrayTeaGreen")CL_opr(0xCADABA");
+    if(color=="Green")CL_opr(0x00FF00");
+    if(color=="Greenyellow")CL_opr(0xADFF2F");
+    if(color=="GradusBlue")CL_opr(0x007DFF");
+
+    if(color=="Heliotrope")CL_opr(0xDF73FF");
+    if(color=="Hotpink")CL_opr(0xFC0FC0");
+
+    if(color=="Indigo")CL_opr(0x4B0082");
+    if(color=="Internationalorange")CL_opr(0xFF4F00");
+    if(color=="IndianRed")CL_opr(0xCD5C5C");
+
+    if(color=="Jade")CL_opr(0x00A86B");
+
+    if(color=="Khaki")CL_opr(0xC3B091");
+    if(color=="KleinBlue")CL_opr(0x3A75C4");
+
+    if(color=="Lavender")CL_opr(0xE6E6FA");
+    if(color=="LavenderBlush")CL_opr(0xFFF0F5");
+    if(color=="Lemon")CL_opr(0xFDE910");
+    if(color=="LemonCream")CL_opr(0xFFFACD");
+    if(color=="Lightbrown")CL_opr(0xCD853F");
+    if(color=="Lilac")CL_opr(0xC8A2C8");
+    if(color=="Lime")CL_opr(0xCCFF00");
+    if(color=="Linen")CL_opr(0xFAF0E6");
+    if(color=="Lawngreen")CL_opr(0x7CFC00");
+
+    if(color=="Magenta")CL_opr(0xFF00FF");
+    if(color=="Malachite")CL_opr(0x0BDA51");
+    if(color=="Maroon")CL_opr(0x800000");
+    if(color=="Mauve")CL_opr(0x993366");
+    if(color=="MidnightBlue")CL_opr(0x003366");
+    if(color=="MintGreen")CL_opr(0x98FF98");
+    if(color=="Mossgreen")CL_opr(0xADDFAD");
+    if(color=="Mountbattenpink")CL_opr(0x997A8D");
+    if(color=="Mustard")CL_opr(0xFFDB58");
+
+    if(color=="Navajowhite")CL_opr(0xFFDEAD");
+    if(color=="Navy")CL_opr(0x000080");
+
+    if(color=="Ochre")CL_opr(0xCC7722");
+    if(color=="OldGold")CL_opr(0xCFB53B");
+    if(color=="Olive")CL_opr(0x808000");
+    if(color=="OliveDrab")CL_opr(0x6B8E23");
+    if(color=="Orange")CL_opr(0xFFA500");
+    if(color=="Orchid")CL_opr(0xDA70D6");
+    if(color=="OldLace")CL_opr(0xFDF5E6");
+
+    if(color=="Paleblue")CL_opr(0xAFEEEE");
+    if(color=="Palebrown")CL_opr(0x987654");
+    if(color=="Palecarmine")CL_opr(0xAF4035");
+    if(color=="Palechestnut")CL_opr(0xDDADAF");
+    if(color=="Palecornflowerblue")CL_opr(0xABCDEF");
+    if(color=="Palemagenta")CL_opr(0xF984E5");
+    if(color=="Palemauve")CL_opr(0x996666");
+    if(color=="Palepink")CL_opr(0xFADADD");
+    if(color=="Paleredviolet")CL_opr(0xDB7093");
+    if(color=="PaleSandyBrown")CL_opr(0xDABDAB");
+    if(color=="Paleyellow")CL_opr(0xF0DC82");
+    if(color=="Pang")CL_opr(0xC7FCEC");
+    if(color=="Papayawhip")CL_opr(0xFFEFD5");
+    if(color=="Pastelgreen")CL_opr(0x77DD77");
+    if(color=="Pastelpink")CL_opr(0xFFD1DC");
+    if(color=="Peach")CL_opr(0xFFE5B4");
+    if(color=="Peachorange")CL_opr(0xFFCC99");
+    if(color=="Peachyellow")CL_opr(0xFADFAD");
+    if(color=="Pear")CL_opr(0xD1E231");
+    if(color=="Periwinkle")CL_opr(0xCCCCFF");
+    if(color=="Persianblue")CL_opr(0x6600FF");
+    if(color=="PineGreen")CL_opr(0x01796F");
+    if(color=="Pink")CL_opr(0xFFC0CB");
+    if(color=="Pinkorange")CL_opr(0xFF9966");
+    if(color=="Plum")CL_opr(0x660066");
+    if(color=="Powderblue")CL_opr(0x9EB9D4");
+    if(color=="Puce")CL_opr(0xCC8899");
+    if(color=="Prussianblue")CL_opr(0x003153");
+    if(color=="Pumpkin")CL_opr(0xFF7518");
+    if(color=="Purple")CL_opr(0x800080");
+
+    if(color=="Rawumber")CL_opr(0x734A12");
+    if(color=="Red")CL_opr(0xFF0000");
+    if(color=="Redviolet")CL_opr(0xC71585");
+    if(color=="Robineggblue")CL_opr(0x00CCCC");
+    if(color=="RoyalBlue")CL_opr(0x4169E1");
+    if(color=="Russet")CL_opr(0x755A57");
+    if(color=="Rust")CL_opr(0xB7410E");
+    if(color=="RosyBrown")CL_opr(0xBC8F8F");
+
+    if(color=="SafetyOrange")CL_opr(0xFF9900");
+    if(color=="Saffron")CL_opr(0xF4C430");
+    if(color=="Sapphire")CL_opr(0x082567");
+    if(color=="Sana")CL_opr(0xF39643");
+    if(color=="Salmon")CL_opr(0xFF8C69");
+    if(color=="Sandybrown")CL_opr(0xF4A460");
+    if(color=="Sangria")CL_opr(0x92000A");
+    if(color=="Scarlet")CL_opr(0xFF2400");
+    if(color=="Schoolbusyellow")CL_opr(0xFFD800");
+    if(color=="SeaGreen")CL_opr(0x2E8B57");
+    if(color=="Seashell")CL_opr(0xFFF5EE");
+    if(color=="Selectiveyellow")CL_opr(0xFFBA00");
+    if(color=="Sepia")CL_opr(0x704214");
+    if(color=="Silver")CL_opr(0xC0C0C0");
+    if(color=="Slategray")CL_opr(0x708090");
+    if(color=="SpringGreen")CL_opr(0x00FF7F");
+    if(color=="Steelblue")CL_opr(0x4682B4");
+    if(color=="Swampgreen")CL_opr(0xACB78E");
+
+    if(color=="Tan")CL_opr(0xD2B48C");
+    if(color=="Tenne")CL_opr(0xCD5700");
+    if(color=="Tangerine")CL_opr(0xFFCC00");
+    if(color=="TeaGreen")CL_opr(0xD0F0C0");
+    if(color=="Teal")CL_opr(0x008080");
+    if(color=="Thistle")CL_opr(0xD8BFD8");
+    if(color=="Turquoise")CL_opr(0x30D5C8");
+    if(color=="Titian")CL_opr(0xD53E07");
+    if(color=="TransportRed")CL_opr(0xCC0605");
+    if(color=="Tomato")CL_opr(0xFF6347");
+
+    if(color=="Ultramarine")CL_opr(0x120A8F");
+    if(color=="UnitedNationsBlue")CL_opr(0x5B92E5");
+    if(color=="Ubuntuorange")CL_opr(0xDD4814");
+
+    if(color=="Vanilla")CL_opr(0xF3E5AB");
+    if(color=="Vermilion")CL_opr(0xE34234");
+    if(color=="Violet")CL_opr(0x8B00FF");
+    if(color=="Violeteggplant")CL_opr(0x991199");
+    if(color=="Viridian")CL_opr(0x40826D");
+
+    if(color=="Wheat")CL_opr(0xF5DEB3");
+    if(color=="White")CL_opr(0xFFFFFF");
+    if(color=="Wisteria")CL_opr(0xC9A0DC");
+    if(color=="Wine")CL_opr(0x722F37");
+
+    if(color=="Xanadu")CL_opr(0x738678");
+
+    if(color=="Yellow")CL_opr(0xFFFF00");
+
+    if(color=="Zinnwaldite")CL_opr(0xEBC2AF");
+    if(color=="Zaffre")CL_opr(0x0014A8");
+};
+
+void CL_opr(uint32_t color){
+    for (int i = 0; i < r1*2+r2*2; i++)
+    {
+        mas[i]=color;
+    };
+};

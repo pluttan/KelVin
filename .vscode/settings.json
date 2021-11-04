@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "2": "c",
+        "*.pyde": "pyprocessing",
+        "*.tex": "tex",
+        "n": "c"
+    }
+}

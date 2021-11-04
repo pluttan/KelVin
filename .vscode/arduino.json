@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "programmer": "usbtinyisp",
+    "sketch": "KelBilight/KelBilight.ino",
+    "port": "/dev/cu.usbserial-110"
+}

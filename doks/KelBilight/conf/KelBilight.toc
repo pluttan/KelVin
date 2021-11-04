@@ -5,3 +5,25 @@
 \contentsline {subsection}{\numberline {2.2}Проблема}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Цель работы}{4}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Задачи}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Предисловие}{5}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Чем отличаются адресные ленты от обычных?}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Обычная светодиодная лента}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}RGB светодиодная лента}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Адресная светодиодная лента}{8}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Как выбрать блок питания?}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Рабочее напряжение (U)}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Мощность светодиодной ленты (P)}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Степень защиты корпуса блока питания от проникновения жидкости и пыли (класс защиты IP)}{10}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Габаритные размеры}{11}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Как соединить куски ленты?}{12}{section.5}%
+\contentsline {section}{\numberline {6}Микроконтроллер}{13}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Процессор}{14}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Тактирование}{14}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Напряжение, перезагрузка и программатор}{16}{subsubsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.2}WiFi модуль}{17}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Плата понижения напряжения}{17}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Кнопки PROG и ESP\_RST}{18}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Разводка ESP8266-01}{19}{subsubsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.3}Радио модуль}{19}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Плата расширения(SRAM)}{19}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Вывод для ленты}{20}{subsection.6.5}%

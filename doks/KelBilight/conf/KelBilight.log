@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.2)  19 OCT 2021 19:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.29)  4 NOV 2021 10:56
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1162,29 +1162,36 @@ LaTeX Font Warning: Font shape `T2A/ntxtlf/m/n' undefined
 (Font)              using `T2A/cmr/m/n' instead on input line 23.
 
 )
+Runaway argument?
+{\contentsline {subsection}{\numberline {6.3}Радио мо� 
+! File ended while scanning use of \@writefile.
+<inserted text> 
+                \par 
+l.63 \begin{document}
+                     
+? 
 \openout1 = `KelBilight.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1201,8 +1208,8 @@ LaTeX Font Info:    ... okay on input line 60.
 * \textheight=731.23584pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
-* \headheight=12.0pt
+* \topmargin=-54.86447pt
+* \headheight=14.49998pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -1219,7 +1226,7 @@ LaTeX Font Info:    ... okay on input line 60.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \th on input line 60.
+LaTeX Info: Redefining \th on input line 63.
 (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count333
@@ -1243,7 +1250,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \c@lstlisting=\count339
-Package hyperref Info: Link coloring ON on input line 60.
+Package hyperref Info: Link coloring ON on input line 63.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1257,13 +1264,29 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count340
 )
-LaTeX Info: Redefining \ref on input line 60.
-LaTeX Info: Redefining \pageref on input line 60.
-LaTeX Info: Redefining \nameref on input line 60.
- (./KelBilight.out) (./KelBilight.out)
+LaTeX Info: Redefining \ref on input line 63.
+LaTeX Info: Redefining \pageref on input line 63.
+LaTeX Info: Redefining \nameref on input line 63.
+ (./KelBilight.out)
+Runaway argument?
+{\376\377\004\034\004\070\004\072\004\100\004\076\004\072\004\076\004\ETC.
+! File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.63 \begin{document}
+                     
+? 
+(./KelBilight.out)
+Runaway argument?
+{\376\377\004\034\004\070\004\072\004\100\004\076\004\072\004\076\004\ETC.
+! File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.63 \begin{document}
+                     
+? 
 \@outlinefile=\write7
 \openout7 = `KelBilight.out'.
-
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
@@ -1275,138 +1298,553 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 \c@mv@tabular=\count341
 \c@mv@boldtabular=\count342
-<../Opening/opening.pdf, id=7, 597.50829pt x 845.0471pt>
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf>
-Package pdftex.def Info: ../Opening/opening.pdf  used on input line 61.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf>
-Package pdftex.def Info: ../Opening/opening.pdf  used on input line 61.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<../Opening/opening.pdf, id=10, page=1, 597.50829pt x 845.0471pt>
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 1>
-Package pdftex.def Info: ../Opening/opening.pdf , page1 used on input line 61.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 1>
-Package pdftex.def Info: ../Opening/opening.pdf , page1 used on input line 61.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 1>
-Package pdftex.def Info: ../Opening/opening.pdf , page1 used on input line 61.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 1>
-Package pdftex.def Info: ../Opening/opening.pdf , page1 used on input line 61.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 1>
-Package pdftex.def Info: ../Opening/opening.pdf , page1 used on input line 61.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [1
+<logo.png, id=75, 188.20313pt x 101.62968pt>
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 67.
+(pdftex.def)             Requested size: 165.03915pt x 89.12114pt.
 
- <../Opening/opening.pdf{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/upd
-map/pdftex.map}>]
-<../Opening/opening.pdf, id=39, page=2, 597.50829pt x 845.0471pt>
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 2>
-Package pdftex.def Info: ../Opening/opening.pdf , page2 used on input line 61.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 2>
-Package pdftex.def Info: ../Opening/opening.pdf , page2 used on input line 61.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 2>
-Package pdftex.def Info: ../Opening/opening.pdf , page2 used on input line 61.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [2 <../Opening/opening.pdf>]
-<../Opening/opening.pdf, id=54, page=3, 597.50829pt x 845.0471pt>
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 3>
-Package pdftex.def Info: ../Opening/opening.pdf , page3 used on input line 61.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 3>
-Package pdftex.def Info: ../Opening/opening.pdf , page3 used on input line 61.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 3>
-Package pdftex.def Info: ../Opening/opening.pdf , page3 used on input line 61.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [3 <../Opening/opening.pdf>]
-<../Opening/opening.pdf, id=59, page=4, 597.50829pt x 845.0471pt>
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 4>
-Package pdftex.def Info: ../Opening/opening.pdf , page4 used on input line 61.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 4>
-Package pdftex.def Info: ../Opening/opening.pdf , page4 used on input line 61.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../Opening/opening.pdf Graphic file (type pdf)
-<use ../Opening/opening.pdf, page 4>
-Package pdftex.def Info: ../Opening/opening.pdf , page4 used on input line 61.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [4 <../Opening/opening.pdf>]
-<../Theory/theory.pdf, id=69, 597.50829pt x 845.0471pt>
-File: ../Theory/theory.pdf Graphic file (type pdf)
-<use ../Theory/theory.pdf>
-Package pdftex.def Info: ../Theory/theory.pdf  used on input line 62.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-File: ../Theory/theory.pdf Graphic file (type pdf)
-<use ../Theory/theory.pdf>
-Package pdftex.def Info: ../Theory/theory.pdf  used on input line 62.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<../Theory/theory.pdf, id=72, page=1, 597.50829pt x 845.0471pt>
-File: ../Theory/theory.pdf Graphic file (type pdf)
-<use ../Theory/theory.pdf, page 1>
-Package pdftex.def Info: ../Theory/theory.pdf , page1 used on input line 62.
-(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-File: ../Theory/theory.pdf Graphic file (type pdf)
-<use ../Theory/theory.pdf, page 1>
-Package pdftex.def Info: ../Theory/theory.pdf , page1 used on input line 62.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../Theory/theory.pdf Graphic file (type pdf)
-<use ../Theory/theory.pdf, page 1>
-Package pdftex.def Info: ../Theory/theory.pdf , page1 used on input line 62.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../Theory/theory.pdf Graphic file (type pdf)
-<use ../Theory/theory.pdf, page 1>
-Package pdftex.def Info: ../Theory/theory.pdf , page1 used on input line 62.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../Theory/theory.pdf Graphic file (type pdf)
-<use ../Theory/theory.pdf, page 1>
-Package pdftex.def Info: ../Theory/theory.pdf , page1 used on input line 62.
-(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
- [5 <../Theory/theory.pdf>] (./KelBilight.aux)
+Overfull \hbox (35.57903pt too wide) in paragraph at lines 67--69
+[][]
+ []
+
+Package floatflt Message: Floating figure 1 set on page 1
+
+LaTeX Font Warning: Font shape `T2A/ntxtlf/b/n' undefined
+(Font)              using `T2A/ntxtlf/m/n' instead on input line 87.
+
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo.
+png>] (./KelBilight.toc)
+\tf@toc=\write8
+\openout8 = `KelBilight.toc'.
+
+ [2]
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 12.0pt on input line 136.
+ [3] [4]
+<белая_лента.jpg, id=108, 602.25pt x 451.6875pt>
+File: белая_лента.jpg Graphic file (type jpg)
+<use белая_лента.jpg>
+Package pdftex.def Info: белая_лента.jpg  used on input line 206.
+(pdftex.def)             Requested size: 400.02255pt x 300.0pt.
+
+
+LaTeX Font Warning: Font shape `T2A/ntxtlf/m/it' undefined
+(Font)              using `T2A/ntxtlf/m/n' instead on input line 206.
+
+[5pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.211 \newpage
+               <./белая_лента.jpg>]
+<белая_светодиодная_лента.jpg, id=114, 2007.5pt x 2007.5p
+t>
+File: белая_светодиодная_лента.jpg Graphic file (type jpg
+)
+<use белая_светодиодная_лента.jpg>
+Package pdftex.def Info: белая_светодиодная_лента.jpg  us
+ed on input line 226.
+(pdftex.def)             Requested size: 350.0006pt x 350.0pt.
+ [6pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.228 \newpage
+               <./белая_светодиодная_лента.jpg>]
+<RGB_светодиодная_лента.jpg, id=120, 1017.88733pt x 1017.88733
+pt>
+File: RGB_светодиодная_лента.jpg Graphic file (type jpg)
+<use RGB_светодиодная_лента.jpg>
+Package pdftex.def Info: RGB_светодиодная_лента.jpg  used on i
+nput line 240.
+(pdftex.def)             Requested size: 449.99965pt x 450.0pt.
+ [7pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.242 \newpage
+               <./RGB_светодиодная_лента.jpg>]
+<Адресная_светодиодная_лента.jpg, id=127, 931.3669pt x
+ 446.85254pt>
+File: Адресная_светодиодная_лента.jpg Graphic file (ty
+pe jpg)
+<use Адресная_светодиодная_лента.jpg>
+Package pdftex.def Info: Адресная_светодиодная_лента.j
+pg  used on input line 252.
+(pdftex.def)             Requested size: 479.3822pt x 230.0pt.
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.263 \newpage
+               <./Адресная_светодиодная_лента.jpg>]
+<блок_питания.jpg, id=133, 497.60907pt x 316.18124pt>
+File: блок_питания.jpg Graphic file (type jpg)
+<use блок_питания.jpg>
+Package pdftex.def Info: блок_питания.jpg  used on input line 271.
+(pdftex.def)             Requested size: 236.07063pt x 150.0pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 292
+.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 292
+.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 29
+2.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [9pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.315 Д
+        ля вычисления мощности используют фо...
+ <./блок_питания.jpg>] [10]
+<ip_блоки_питания.png, id=151, 311.2428pt x 86.724pt>
+File: ip_блоки_питания.png Graphic file (type png)
+<use ip_блоки_питания.png>
+Package pdftex.def Info: ip_блоки_питания.png  used on input line 3
+77.
+(pdftex.def)             Requested size: 466.5781pt x 130.0pt.
+ [11pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.424 
+       <./ip_блоки_питания.png>]
+<схема_для_кусков.jpg, id=161, 246.6816pt x 34.9305pt>
+File: схема_для_кусков.jpg Graphic file (type jpg)
+<use схема_для_кусков.jpg>
+Package pdftex.def Info: схема_для_кусков.jpg  used on input line
+ 433.
+(pdftex.def)             Requested size: 494.35191pt x 70.0pt.
+
+Overfull \hbox (10.65504pt too wide) in paragraph at lines 433--433
+ [] 
+ []
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.439 \newpage
+               <./схема_для_кусков.jpg>]
+<arduino.jpg, id=167, 1043.39813pt x 752.8125pt>
+File: arduino.jpg Graphic file (type jpg)
+<use arduino.jpg>
+Package pdftex.def Info: arduino.jpg  used on input line 450.
+(pdftex.def)             Requested size: 166.31027pt x 120.0pt.
+<sram&altmega.jpg, id=168, 135.8676pt x 65.5248pt>
+File: sram&altmega.jpg Graphic file (type jpg)
+<use sram&altmega.jpg>
+Package pdftex.def Info: sram&altmega.jpg  used on input line 463.
+(pdftex.def)             Requested size: 248.82803pt x 120.0pt.
+ [13pdfTeX warning (ext4): destination with the same identifier (name{figure.8}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.477 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.477 \newpage
+               <./arduino.jpg> <./sram&altmega.jpg>]
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
+e 488.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 488.
+<tact.png, id=180, 380.42125pt x 303.1325pt>
+File: tact.png Graphic file (type png)
+<use tact.png>
+Package pdftex.def Info: tact.png  used on input line 506.
+(pdftex.def)             Requested size: 376.49628pt x 300.0pt.
+ [14pdfTeX warning (ext4): destination with the same identifier (name{figure.10
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.514 
+       <./tact.png>]
+<график_тактирования.png, id=190, 574.145pt x 357.335pt>
+File: график_тактирования.png Graphic file (type png)
+<use график_тактирования.png>
+Package pdftex.def Info: график_тактирования.png  used on inp
+ut line 527.
+(pdftex.def)             Requested size: 241.00784pt x 150.0pt.
+<Схема_тактирования.png, id=191, 1009.7725pt x 287.0725pt>
+File: Схема_тактирования.png Graphic file (type png)
+<use Схема_тактирования.png>
+Package pdftex.def Info: Схема_тактирования.png  used on input
+ line 537.
+(pdftex.def)             Requested size: 351.74622pt x 100.0pt.
+ [15pdfTeX warning (ext4): destination with the same identifier (name{figure.11
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.539 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.539 \newpage
+               <./график_тактирования.png> <./Схема_та
+ктирования.png>]
+<Стабилизация_напряжения.png, id=200, 568.1225pt x 225.84
+375pt>
+File: Стабилизация_напряжения.png Graphic file (type png)
+
+<use Стабилизация_напряжения.png>
+Package pdftex.def Info: Стабилизация_напряжения.png  use
+d on input line 546.
+(pdftex.def)             Requested size: 201.24712pt x 80.0pt.
+<Вывод_пинов.png, id=201, 811.03pt x 448.67625pt>
+File: Вывод_пинов.png Graphic file (type png)
+<use Вывод_пинов.png>
+Package pdftex.def Info: Вывод_пинов.png  used on input line 550.
+(pdftex.def)             Requested size: 144.60544pt x 80.0pt.
+<Схема_переходника_под_программатор.png, id=202,
+ 707.64375pt x 507.8975pt>
+File: Схема_переходника_под_программатор.png Gra
+phic file (type png)
+<use Схема_переходника_под_программатор.png>
+Package pdftex.def Info: Схема_переходника_под_програ�
+�матор.png  used on input line 554.
+(pdftex.def)             Requested size: 139.3235pt x 100.0pt.
+<схема_RST.png, id=203, 680.5425pt x 504.88625pt>
+File: схема_RST.png Graphic file (type png)
+<use схема_RST.png>
+Package pdftex.def Info: схема_RST.png  used on input line 559.
+(pdftex.def)             Requested size: 175.22348pt x 130.0pt.
+ [16pdfTeX warning (ext4): destination with the same identifier (name{figure.13
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.561 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.561 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.561 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.16}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.561 \newpage
+               <./Стабилизация_напряжения.png> <./Выв�
+�д_пинов.png> <./Схема_переходника_под_програм�
+�атор.png> <./схема_RST.png>]
+<документация_к_esp.png, id=217, 552.0625pt x 543.02875pt>
+File: документация_к_esp.png Graphic file (type png)
+<use документация_к_esp.png>
+Package pdftex.def Info: документация_к_esp.png  used on input lin
+e 570.
+(pdftex.def)             Requested size: 304.99995pt x 300.0pt.
+<Схема_понижения_напряжения.png, id=218, 865.2325pt x 4
+62.72874pt>
+File: Схема_понижения_напряжения.png Graphic file (type
+ png)
+<use Схема_понижения_напряжения.png>
+Package pdftex.def Info: Схема_понижения_напряжения.png
+  used on input line 580.
+(pdftex.def)             Requested size: 186.98514pt x 100.0pt.
+ [17pdfTeX warning (ext4): destination with the same identifier (name{figure.17
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.589 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+18}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.589 
+       <./документация_к_esp.png> <./Схема_понижения
+_напряжения.png>]
+<Схема_кнопка_prog.png, id=229, 284.06125pt x 464.73625pt>
+File: Схема_кнопка_prog.png Graphic file (type png)
+<use Схема_кнопка_prog.png>
+Package pdftex.def Info: Схема_кнопка_prog.png  used on input line 5
+90.
+(pdftex.def)             Requested size: 91.68164pt x 150.0pt.
+<Схема_вывода_rst.png, id=230, 887.315pt x 443.6575pt>
+File: Схема_вывода_rst.png Graphic file (type png)
+<use Схема_вывода_rst.png>
+Package pdftex.def Info: Схема_вывода_rst.png  used on input line 59
+5.
+(pdftex.def)             Requested size: 199.98927pt x 100.0pt.
+<Схема_кнопка_esp_rst.png, id=231, 226.8475pt x 437.635pt>
+File: Схема_кнопка_esp_rst.png Graphic file (type png)
+<use Схема_кнопка_esp_rst.png>
+Package pdftex.def Info: Схема_кнопка_esp_rst.png  used on input lin
+e 599.
+(pdftex.def)             Requested size: 77.75363pt x 150.0pt.
+ [18pdfTeX warning (ext4): destination with the same identifier (name{figure.19
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.601 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.20}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.601 \newpage
+              pdfTeX warning (ext4): destination with the same identifier (name
+{figure.21}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.601 \newpage
+               <./Схема_кнопка_prog.png> <./Схема_вывода_
+rst.png> <./Схема_кнопка_esp_rst.png>]
+<Схема_ESP.png, id=243, 970.62625pt x 368.37625pt>
+File: Схема_ESP.png Graphic file (type png)
+<use Схема_ESP.png>
+Package pdftex.def Info: Схема_ESP.png  used on input line 608.
+(pdftex.def)             Requested size: 263.47958pt x 100.0pt.
+<Схема_радиомодуля.png, id=244, 203.76125pt x 233.87375pt>
+File: Схема_радиомодуля.png Graphic file (type png)
+<use Схема_радиомодуля.png>
+Package pdftex.def Info: Схема_радиомодуля.png  used on input l
+ine 614.
+(pdftex.def)             Requested size: 87.12437pt x 100.0pt.
+<Схема_SRAM.png, id=245, 444.66125pt x 162.6075pt>
+File: Схема_SRAM.png Graphic file (type png)
+<use Схема_SRAM.png>
+Package pdftex.def Info: Схема_SRAM.png  used on input line 620.
+(pdftex.def)             Requested size: 273.46164pt x 100.0pt.
+ [19pdfTeX warning (ext4): destination with the same identifier (name{figure.22
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.627 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+23}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.627 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+24}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.627 
+       <./Схема_ESP.png> <./Схема_радиомодуля.png> <./Сх
+ема_SRAM.png>]
+<Схема_вывода_ленты.png, id=260, 389.455pt x 194.7275pt>
+File: Схема_вывода_ленты.png Graphic file (type png)
+<use Схема_вывода_ленты.png>
+Package pdftex.def Info: Схема_вывода_ленты.png  used on input 
+line 628.
+(pdftex.def)             Requested size: 199.9981pt x 100.0pt.
+
+
+LaTeX Warning: File `/Users/pluttan/Desktop/\T2A\cyrd \T2A\cyro \T2A\cyrm /KelV
+in/doks/KelBilight/conf/\T2A\CYRP \T2A\cyrr \T2A\cyri \T2A\cyrl \T2A\cyro \T2A\
+cyrzh \T2A\cyre \T2A\cyrn \T2A\cyri \T2A\cyre _1.pdf' not found on input line 6
+35.
+
+
+! Package pdftex.def Error: File `/Users/pluttan/Desktop/T2A\cyrdT2A\cyroT2A\cy
+rm/KelVin/doks/KelBilight/conf/T2A\CYRPT2A\cyrrT2A\cyriT2A\cyrlT2A\cyroT2A\cyrz
+hT2A\cyreT2A\cyrnT2A\cyriT2A\cyre_1.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.635 ...lBilight/conf/Приложение_1.pdf}
+                                                  \centering{Приложе�...
+
+? 
+LaTeX Font Info:    Trying to load font information for T2A+ntxtt on input line
+ 635.
+LaTeX Font Info:    No file T2Antxtt.fd. on input line 635.
+
+LaTeX Font Warning: Font shape `T2A/ntxtt/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 635.
+
+
+LaTeX Warning: File `/Users/pluttan/Desktop/\T2A\cyrd \T2A\cyro \T2A\cyrm /KelV
+in/doks/KelBilight/conf/\T2A\CYRP \T2A\cyrr \T2A\cyri \T2A\cyrl \T2A\cyro \T2A\
+cyrzh \T2A\cyre \T2A\cyrn \T2A\cyri \T2A\cyre _1.pdf' not found on input line 6
+35.
+
+
+! Package pdftex.def Error: File `/Users/pluttan/Desktop/T2A\cyrdT2A\cyroT2A\cy
+rm/KelVin/doks/KelBilight/conf/T2A\CYRPT2A\cyrrT2A\cyriT2A\cyrlT2A\cyroT2A\cyrz
+hT2A\cyreT2A\cyrnT2A\cyriT2A\cyre_1.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.635 ...lBilight/conf/Приложение_1.pdf}
+                                                  \centering{Приложе�...
+
+? 
+
+LaTeX Warning: File `/Users/pluttan/Desktop/\T2A\cyrd \T2A\cyro \T2A\cyrm /KelV
+in/doks/KelBilight/conf/\T2A\CYRP \T2A\cyrr \T2A\cyri \T2A\cyrl \T2A\cyro \T2A\
+cyrzh \T2A\cyre \T2A\cyrn \T2A\cyri \T2A\cyre _1.pdf' not found on input line 6
+35.
+
+
+! Package pdftex.def Error: File `/Users/pluttan/Desktop/T2A\cyrdT2A\cyroT2A\cy
+rm/KelVin/doks/KelBilight/conf/T2A\CYRPT2A\cyrrT2A\cyriT2A\cyrlT2A\cyroT2A\cyrz
+hT2A\cyreT2A\cyrnT2A\cyriT2A\cyre_1.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.635 ...lBilight/conf/Приложение_1.pdf}
+                                                  \centering{Приложе�...
+
+? 
+
+LaTeX Warning: File `/Users/pluttan/Desktop/\T2A\cyrd \T2A\cyro \T2A\cyrm /KelV
+in/doks/KelBilight/conf/\T2A\CYRP \T2A\cyrr \T2A\cyri \T2A\cyrl \T2A\cyro \T2A\
+cyrzh \T2A\cyre \T2A\cyrn \T2A\cyri \T2A\cyre _1.pdf' not found on input line 6
+35.
+
+
+! Package pdftex.def Error: File `/Users/pluttan/Desktop/T2A\cyrdT2A\cyroT2A\cy
+rm/KelVin/doks/KelBilight/conf/T2A\CYRPT2A\cyrrT2A\cyriT2A\cyrlT2A\cyroT2A\cyrz
+hT2A\cyreT2A\cyrnT2A\cyriT2A\cyre_1.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.635 ...lBilight/conf/Приложение_1.pdf}
+                                                  \centering{Приложе�...
+
+? 
+[20pdfTeX warning (ext4): destination with the same identifier (name{figure.25}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.635 ...lBilight/conf/Приложение_1.pdf}
+                                                  \centering{Приложе�...
+ <./Схема_вывода_ленты.png>]
+
+LaTeX Warning: File `/Users/pluttan/Desktop/\T2A\cyrd \T2A\cyro \T2A\cyrm /KelV
+in/doks/KelBilight/conf/\T2A\CYRP \T2A\cyrr \T2A\cyri \T2A\cyrl \T2A\cyro \T2A\
+cyrzh \T2A\cyre \T2A\cyrn \T2A\cyri \T2A\cyre _1.pdf' not found on input line 6
+35.
+
+
+! Package pdftex.def Error: File `/Users/pluttan/Desktop/T2A\cyrdT2A\cyroT2A\cy
+rm/KelVin/doks/KelBilight/conf/T2A\CYRPT2A\cyrrT2A\cyriT2A\cyrlT2A\cyroT2A\cyrz
+hT2A\cyreT2A\cyrnT2A\cyriT2A\cyre_1.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.635 ...lBilight/conf/Приложение_1.pdf}
+                                                  \centering{Приложе�...
+
+? 
+
+LaTeX Warning: File `/Users/pluttan/Desktop/\T2A\cyrd \T2A\cyro \T2A\cyrm /KelV
+in/doks/KelBilight/conf/\T2A\CYRP \T2A\cyrr \T2A\cyri \T2A\cyrl \T2A\cyro \T2A\
+cyrzh \T2A\cyre \T2A\cyrn \T2A\cyri \T2A\cyre _1.pdf' not found on input line 6
+35.
+
+
+! Package pdftex.def Error: File `/Users/pluttan/Desktop/T2A\cyrdT2A\cyroT2A\cy
+rm/KelVin/doks/KelBilight/conf/T2A\CYRPT2A\cyrrT2A\cyriT2A\cyrlT2A\cyroT2A\cyrz
+hT2A\cyreT2A\cyrnT2A\cyriT2A\cyre_1.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.635 ...lBilight/conf/Приложение_1.pdf}
+                                                  \centering{Приложе�...
+
+? 
+
+LaTeX Warning: File `/Users/pluttan/Desktop/\T2A\cyrd \T2A\cyro \T2A\cyrm /KelV
+in/doks/KelBilight/conf/\T2A\CYRP \T2A\cyrr \T2A\cyri \T2A\cyrl \T2A\cyro \T2A\
+cyrzh \T2A\cyre \T2A\cyrn \T2A\cyri \T2A\cyre _1.pdf' not found on input line 6
+35.
+
+
+! Package pdftex.def Error: File `/Users/pluttan/Desktop/T2A\cyrdT2A\cyroT2A\cy
+rm/KelVin/doks/KelBilight/conf/T2A\CYRPT2A\cyrrT2A\cyriT2A\cyrlT2A\cyroT2A\cyrz
+hT2A\cyreT2A\cyrnT2A\cyriT2A\cyre_1.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.635 ...lBilight/conf/Приложение_1.pdf}
+                                                  \centering{Приложе�...
+
+? 
+[21] [22] [23
+
+] (./KelBilight.aux
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.95pt on input line 23.
+)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `KelBilight.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package rerunfilecheck Warning: File `KelBilight.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `KelBilight.out':
+(rerunfilecheck)             Before: 54758F4B05182E9B4756D249C31AF6F0;4096
+(rerunfilecheck)             After:  79C196FF2D63A584FB9E9ECF6A42C311;6192.
  ) 
 Here is how much of TeX's memory you used:
- 26243 strings out of 478994
- 452162 string characters out of 5858185
- 779227 words of memory out of 5000000
- 43228 multiletter control sequences out of 15000+600000
- 407441 words of font info for 31 fonts, out of 8000000 for 9000
+ 26656 strings out of 478994
+ 463301 string characters out of 5858183
+ 791267 words of memory out of 5000000
+ 43477 multiletter control sequences out of 15000+600000
+ 424801 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,17n,116p,428b,552s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb>
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></
-usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></us
-r/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/
-local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/lo
-cal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/loca
-l/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on KelBilight.pdf (5 pages, 240069 bytes).
+ 111i,16n,116p,798b,552s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/
+local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/l
+ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/lo
+cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
+texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2021/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/local/texlive/20
+21/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2021
+/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2021/t
+exmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2021/tex
+mf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2021/texmf
+-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2021/texmf-d
+ist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2021/texmf-dis
+t/fonts/type1/public/cm-super/sfrm2488.pfb>
+Output written on KelBilight.pdf (23 pages, 6059152 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
+ 91 named destinations out of 1000 (max. 500000)
+ 289 words of extra memory for PDF output out of 10000 (max. 10000000)
 
